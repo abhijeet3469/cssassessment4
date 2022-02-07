@@ -224,9 +224,10 @@ ul{
     
 }
 #i7{
+    padding-top: 5px;
     text-align: center;
-    color: antiquewhite;
-    background: rgb(142, 211, 218);
+    color: white;
+    background: black;
     grid-column: 1/5;
     
 }
